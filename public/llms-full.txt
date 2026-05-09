@@ -2,13 +2,13 @@
 
 Michael Handyman is a professional home and office maintenance and repair service run by Michael, offering a personal, friendly, and reliable approach. The brand emphasizes quality workmanship, a smile, and fair pricing. Services include installations (TVs, shelves, curtains), furniture assembly (especially IKEA), light plumbing, and basic electrical work. The business promotes a referral program offering 20% discounts and positions itself as a trusted neighborhood handyman who comes to your door.
 
-Source: https://-14830d70.zappy5.app
+Source: https://example.com
 
 ---
 
 ## תיקונים ותחזוקה שמגיעים אליך — מיכאל הנדימן
 
-URL: https://-14830d70.zappy5.app
+URL: https://example.com
 Description: תחזוקה ותיקוני בית מקצועיים עם חיוך ומחיר הוגן. מיכאל מגיע אליך לכל עבודה קטנה או גדולה — התקנות, אינסטלציה, חשמל ועוד. קבל הצעת מחיר עכשיו!
 
 תיקונים ותחזוקה שמגיעים אליך — מיכאל הנדימן
@@ -544,7 +544,7 @@ Description: תחזוקה ותיקוני בית מקצועיים עם חיוך �
 
 ## כל שירות שהבית שלך צריך — מיכאל הנדימן
 
-URL: https://-14830d70.zappy5.app/services
+URL: https://example.com/services
 Description: מהרכבת רהיטי איקאה ועד תיקון דוד שמש ועבודות אינסטלציה — מיכאל מספק שירותי תחזוקת בית מלאים במחיר שווה לכל נפש. גלה את כל השירותים שלנו!
 
 כל שירות שהבית שלך צריך — מיכאל הנדימן
@@ -1126,7 +1126,7 @@ Description: מהרכבת רהיטי איקאה ועד תיקון דוד שמש 
 
 ## ראה את התוצאות לפני שאתה מחליט — מיכאל הנדימן
 
-URL: https://-14830d70.zappy5.app/work-samples
+URL: https://example.com/work-samples
 Description: דוגמאות עבודה אמיתיות וטיפים מקצועיים לתחזוקת הבית שלך. גלה איך מיכאל הנדימן פותר בעיות תיקונים ביתיים ביעילות ובאיכות גבוהה — ותחליט בביטחון!
 
 ראה את התוצאות לפני שאתה מחליט — מיכאל הנדימן
@@ -1740,7 +1740,7 @@ Description: דוגמאות עבודה אמיתיות וטיפים מקצועי�
 
 ## דבר עם מיכאל ישירות — פתרון מהיר לבית שלך — מיכאל הנדימן
 
-URL: https://-14830d70.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש תקלה בבית? מיכאל הנדימן מגיע אליך מהר עם מחיר הוגן ושירות אישי. צור קשר עכשיו וקבל הנחה של 20% על המלצה — כי שכן טוב שווה הנחה!
 
 דבר עם מיכאל ישירות — פתרון מהיר לבית שלך — מיכאל הנדימן
@@ -2220,7 +2220,7 @@ Description: יש תקלה בבית? מיכאל הנדימן מגיע אליך �
 
 ## מדיניות פרטיות
 
-URL: https://-14830d70.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2485,7 +2485,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-14830d70.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2759,7 +2759,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-14830d70.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
